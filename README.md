@@ -1,7 +1,7 @@
 Leaflet.WMS.GetLegendGraphic
 ============================
 
-Simply little function to add a new function to Leaflet.WMS to fetch the layer's legend graphic.
+Simple little function to add a new function to Leaflet.WMS to fetch the layer's legend graphic.
 
 After including this plugin all Leaflet.WMS will have a new function named getLegendGraphic(). 
 
